@@ -48,7 +48,7 @@ const SignUp = () => {
                         <option value="Social Work">Social Work</option>
                         <option value="Sociology">Sociology</option>
                         <option value="Oceanography">Oceanography</option>
-                        <option value="Software Engineering">Anthropology</option>
+                        <option value="Software Engineering">Software Engineering</option>
                         <option value="Anthropology">Anthropology</option>
                     </select>
                 </div>
